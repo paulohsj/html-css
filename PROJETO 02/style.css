@@ -36,10 +36,10 @@ section > p {
     font-family: Texto, sans-serif;
 }
 .texto{
-    background-color: wheat;
+    background-color: white;
 }
 .imagem{
-    background-color: wheat;
+    background-color: white;
     background-position: left center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,7 +63,7 @@ section > p {
 footer{
     background-color: black;
     color: white;
-    font-size: 2vh;
+    font-size: 2vw;
     text-align: center;
 }
 header a, footer a{
